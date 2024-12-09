@@ -1,4 +1,4 @@
-## Object Detection Notebook
+## Object Detection
 
 ### Overview
 This repository contains a Jupyter Notebook (`Object_detection.ipynb`) designed for performing object detection using deep learning frameworks.
